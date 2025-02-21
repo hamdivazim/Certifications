@@ -11,4 +11,4 @@ I achieved the AWS Developer Associate certification on Feb 21, 2025 at age 13 a
 
 > *"Earners of this certification have a comprehensive understanding of application life-cycle management. They demonstrated proficiency in writing applications with AWS service APIs, AWS CLI, and SDKs; using containers; and deploying with a CI/CD pipeline. Badge owners are able to develop, deploy, and debug cloud-based applications that follow AWS best practices."*
 
-The exam mostly featured the AWS Serverless suite of services, which include Lambda, DynamoDB, API Gateway, Cognito and more.
+The exam mostly featured the AWS Serverless suite of services, which includes Lambda, DynamoDB, API Gateway, Cognito and more.
