@@ -7,6 +7,7 @@
 ### AWS Developer Associate (DVA-C02)
 
 - View my badge on Credly: **https://www.credly.com/badges/d3f9c9c2-9c58-436e-a0a2-950746da9a2d**
+- **[View certificate](https://github.com/hamdivazim/Certifications/blob/main/AWS%20Certified%20Developer%20-%20Associate%20certificate%20-%20Hamd%20Muhammad%20Waseem.pdf)**
 
 [<img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" style="width:20%" />](https://www.credly.com/badges/d3f9c9c2-9c58-436e-a0a2-950746da9a2d)
 
@@ -20,6 +21,7 @@ The exam mostly featured the AWS Serverless suite of services, which includes La
 ### AWS Solutions Architect Associate (SAA-C03)
 
 - View my badge on Credly: **[https://www.credly.com/badges/d58256a7-73d9-4f41-b1b9-9c75cca36ea1](https://www.credly.com/badges/d58256a7-73d9-4f41-b1b9-9c75cca36ea1)**
+- **[View certificate](https://github.com/hamdivazim/Certifications/blob/main/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate%20-%20Hamd%20Muhammad%20Waseem.pdf)**
 
 [<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" style="width:20%" />](https://www.credly.com/badges/d58256a7-73d9-4f41-b1b9-9c75cca36ea1)
 
@@ -32,6 +34,7 @@ The exam broadly featured the AWS Compute, Storage and Database set of services,
 ### AWS AI Practitioner (AIF-C01)
 
 - View my badge on Credly: **[https://www.credly.com/badges/33444cfa-1c0d-4a96-928b-c1d47e11ef0d](https://www.credly.com/badges/33444cfa-1c0d-4a96-928b-c1d47e11ef0d)**
+- **[View certificate](https://github.com/hamdivazim/Certifications/blob/main/AWS%20Certified%20AI%20Practitioner%20certificate%20-%20Hamd%20Muhammad%20Waseem.pdf)**
 
 [<img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" style="width:20%" />](https://www.credly.com/badges/33444cfa-1c0d-4a96-928b-c1d47e11ef0d)
 
