@@ -28,3 +28,15 @@ I achieved the AWS Solutions Architect Associate certification on Mar 22, 2025 a
 > *"Earners of this certification have a comprehensive understanding of AWS services and technologies. They demonstrated the ability to build secure and robust solutions using architectural design principles based on customer requirements. Badge owners are able to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant."*
 
 The exam broadly featured the AWS Compute, Storage and Database set of services, asking questions about EC2, S3, RDS, Aurora, and more. However the whole exam was not focused on just one suite of services.
+
+### AWS AI Practitioner (AIF-C01)
+
+- View my badge on Credly: **[https://www.credly.com/badges/33444cfa-1c0d-4a96-928b-c1d47e11ef0d](https://www.credly.com/badges/33444cfa-1c0d-4a96-928b-c1d47e11ef0d)**
+
+[<img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" style="width:20%" />](https://www.credly.com/badges/33444cfa-1c0d-4a96-928b-c1d47e11ef0d)
+
+I achieved the AWS AI Practitioner certification on Mar 29, 2025 at age 13 after preparing for  just about a week, mostly via practice questions and AWS FAQ & documentation.
+
+> *"Earners of this badge understand AI, ML, and generative AI concepts, methods, and strategies in general and on AWS. They can determine the correct types of AI/ML technologies to apply to specific use cases and know how to use AI, ML, and generative AI technologies responsibly. They are familiar with the AWS Global Infrastructure, core AWS services and use cases, AWS service pricing models, and the AWS shared responsibility model for security and compliance in the AWS Cloud."*
+
+The exam was focused on general knowledge in AI, such as supervised/unsupervised/self-supervised/reinforcement learning, GenAI, model evaluation, prompt engineering, classification & regression etc. It was also focused on AWS's AI suite of services, particularaly Amazon Bedrock, SageMaker, Comprehend, Rekognition, Textract, etc.
